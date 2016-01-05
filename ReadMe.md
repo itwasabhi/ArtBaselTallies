@@ -2,3 +2,5 @@ A Matlab-fueled art project to recreate the balance between randomness and unifo
 
 ##Directions
 Run TallyArt with desired parameters to generate piece. 
+
+![Image of TallyArt](Medium2.png)
